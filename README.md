@@ -1,7 +1,5 @@
 Zadanie Twoje zadanie rekrutacyjne:
-Oczytaj plik happiness.csv w Javie:
-https://drive.google.com/file/d/1zfeWa-Wgt2Uq9tKnK...
-Do odczytu możesz użyć linka:
+Oczytaj plik **happiness.csv** w Javie.
 
 Używając programu w Javie:
 Wypisz:
