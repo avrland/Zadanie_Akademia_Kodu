@@ -1,0 +1,97 @@
+Zadanie Akademia kodu:
+######################
+Kraje szczęśliwsze od Polski:
+Israel 104
+Malta 83
+Spain 107
+Italy 99
+Lithuania 138
+Slovenia 114
+Romania 80
+Kuwait 89
+Latvia 119
+South Korea 101
+Kazakhstan 81
+Hungary 86
+Northern Cyprus 144
+Portugal 97
+Pakistan 130
+Russia 96
+Serbia 148
+Moldova 133
+Libya 85
+Montenegro 143
+Tajikistan 120
+Croatia 122
+Hong Kong 105
+Bosnia and Herzegovina  116
+Turkey 154
+Belarus 149
+Greece 102
+Mongolia 95
+Macedonia 140
+Turkmenistan 135
+Algeria 113
+Morocco 110
+Azerbaijan 134
+Lebanon 150
+Vietnam 121
+Cameroon 106
+Bulgaria 117
+Ghana 92
+Ivory Coast 88
+Nepal 137
+Jordan 112
+Benin 118
+Congo (Brazzaville) 124
+Gabon 111
+Albania 90
+Venezuela 77
+Palestinian Territories 128
+Niger 79
+Burkina Faso 115
+Armenia 126
+Iran 109
+Guinea 82
+Georgia 141
+Mauritania 94
+Mozambique 108
+Tunisia 147
+Bangladesh 145
+Iraq 151
+Congo (Kinshasa) 125
+Sierra Leone 139
+Chad 136
+Ukraine 131
+Ethiopia 100
+Uganda 91
+Egypt 146
+Zambia 84
+Togo 123
+India 93
+Liberia 103
+Burundi 98
+Haiti 142
+Botswana 87
+Syria 155
+Malawi 129
+Yemen 153
+Tanzania 78
+Afghanistan 152
+Central African Republic 132
+South Sudan 127
+######################
+5 krajów z największą wolnością:
+Afghanistan 155
+South Sudan 154
+Syria 153
+Haiti 152
+Mauritania 151
+######################
+5 krajów z najmniejszą korupcją:
+Singapore 1
+Rwanda 2
+Denmark 3
+Finland 4
+New Zealand 5
+######################
